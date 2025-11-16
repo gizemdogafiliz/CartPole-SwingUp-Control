@@ -102,7 +102,7 @@ python cartpole_system.py
 - High-fidelity physics simulation with realistic dynamics
 - Real-time 3D visualization with interactive viewer
 
-### 📊 Key Features
+## 📊 Key Features
 
 - **JIT Compilation** - Fast execution with JAX
 - **Multiple Control Strategies** - Compare classical and learning-based methods
@@ -117,5 +117,6 @@ python cartpole_system.py
 **Instructor**: Asst. Prof. Aykut Cihan Satıcı
 
 **Built with**: JAX, MuJoCo, Equinox, Optax, Diffrax
+
 
 
