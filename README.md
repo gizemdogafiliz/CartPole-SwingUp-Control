@@ -94,9 +94,13 @@ python cartpole_system.py
 - **Optimizer**: Adam via Optax (lr=1e-3, 1000 epochs)
 
 ### 3. MuJoCo Deployment
+<p align="center">
+  <img src="mujoco_simulation/mujoco_sim.png" width="700"/>
+  <br>
+  <i>Interactive MuJoCo visualization of the cart-pole system</i>
+</p>
 - High-fidelity physics simulation with realistic dynamics
 - Real-time 3D visualization with interactive viewer
-- Sinusoidal force testing for system analysis
 
 ## 📊 Key Features
 
@@ -113,3 +117,4 @@ python cartpole_system.py
 **Instructor**: Asst. Prof. Aykut Cihan Satıcı
 
 **Built with**: JAX, MuJoCo, Equinox, Optax, Diffrax
+
